@@ -1,0 +1,1 @@
+module.exports = { subCommand: "reload.stop", execute() { process.exit(); }, };
